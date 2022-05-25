@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(255, 86, 34);
+}
+
+.paddedl {
+  color: rgb(255, 86, 34);
+  width: 2%;
+  float: left;
+}
+
+.paddedr {
+  color: rgb(255, 86, 34);
+  width: 2%;
+  float: right;
+}
+
+.inside {
+  text-align: center;
+  font-family: Impact;
+  text-decoration-color: rgb(255, 130, 0);
+  text-decoration: double;
+  width: 62%;
+  float: left;
+  background-clip:padding-box;
+  background-image: url("https://www.thisisdig.com/wp-content/uploads/2021/07/Rock-bands-1.jpg")
+}
+
+.sidebar {
+  color: aliceblue;
+  width: 15%;
+  height: 764px;
+  line-height: 103px;
+  float: right;
+  background-image: linear-gradient( rgba(255, 86, 34),rgb(51, 0, 255), rgba(255, 86, 34),rgb(0, 255, 60), rgba(255, 86, 34, 0.6),rgba(255, 130, 0), rgba(255, 86, 34, 0.6), rgb(255, 0, 0), rgba(255, 86, 34, 0.6),rgb(255, 0, 225), rgba(255, 86, 34, 0.6),rgb(107, 56, 1), rgba(255, 86, 34, 0.6));
+}
+
+h2 {
+  color:rgb(255, 255, 255);
+  font-weight: bold;
+  font-size: 52 px;
+}
+
+h1.inside {
+  color:chartreuse;
+
+}
+h4 {
+  color: transparent;
+  line-height: 50 px;
+}
